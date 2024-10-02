@@ -38,4 +38,5 @@ const startQuiz = () => {
 
 startBtn.addEventListener("click",startQuiz);
 //this is commit
+//less than commit
 
