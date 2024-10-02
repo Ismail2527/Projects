@@ -37,4 +37,5 @@ const startQuiz = () => {
 };
 
 startBtn.addEventListener("click",startQuiz);
-//This is my second time commit
+//this is commit
+
